@@ -1,0 +1,12 @@
+chess\pieces\PieceTest.class
+chess\pieces\PieceTest$1$1.class
+chess\pieces\KingTest.class
+chess\pieces\QueenTest.class
+chess\pieces\KnightTest.class
+chess\pieces\PawnTest.class
+chess\PositionTest.class
+chess\GameStateTest.class
+chess\pieces\BishopTest.class
+chess\pieces\PieceTest$1.class
+chess\CLITest.class
+chess\pieces\RookTest.class
